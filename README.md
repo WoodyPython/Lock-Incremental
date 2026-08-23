@@ -15,18 +15,16 @@ The core loop combines a timing challenge with incremental progression:
 3. **React to the reversal.** A successful hit awards Points, moves the target, and reverses the bar's direction. As the run continues, the bar accelerates and targets appear closer together.
 4. **Avoid a miss.** Activating too early or letting the bar pass the target ends the run. After a short cooldown, the lock returns to its idle state and is ready for another attempt.
 5. **Hit the Jackpot.** Land all 50 targets to complete the run. A Jackpot awards a bonus equal to 25% of the run's base target value and grants a Medal.
-6. **Invest and repeat.** Spend Points on various upgrades. 
+6. **Invest and repeat.** Spend Points on various upgrades.
 
 **Lifetime Point goals reveal more of the game as you progress.** You dont start with all features unlocked!
 
-
-
 ## Controls
 
-| Action           | Mouse / touch         | Keyboard                                     |
-| ---------------- | --------------------- | -------------------------------------------- |
-| Start a run      | Click or tap the lock | <kbd>Space</kbd> or <kbd>Enter</kbd>         |
-| Attempt a hit    | Click or tap the lock | <kbd>Space</kbd> or <kbd>Enter</kbd>         |
+| Action        | Mouse / touch         | Keyboard                             |
+| ------------- | --------------------- | ------------------------------------ |
+| Start a run   | Click or tap the lock | <kbd>Space</kbd> or <kbd>Enter</kbd> |
+| Attempt a hit | Click or tap the lock | <kbd>Space</kbd> or <kbd>Enter</kbd> |
 
 ## Progression and saves
 
