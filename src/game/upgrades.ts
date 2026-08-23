@@ -170,7 +170,7 @@ export const UPGRADE_DEFINITIONS: readonly UpgradeDefinition[] = [
   {
     id: 'shielded-streak',
     kind: 'one-time',
-    name: 'Shielded Momentum',
+    name: 'Shielded Streaks',
     description:
       'Shields preserve consecutive streaks and improve their scaling from 1.05× to 1.07×.',
     baseCost: new Decimal(100_000),
